@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(0, 10);
+  background(0, 5);
   frameRate(50);
   for (let i = 0; i < num; i++) {
     let p = particles[i];
